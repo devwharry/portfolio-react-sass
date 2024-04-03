@@ -5,16 +5,15 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre</h2>
       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolores!
-        Repellendus eius consequuntur, voluptate deserunt perferendis mollitia
-        debitis est autem aperiam necessitatibus beatae assumenda illo rem
-        architecto quis dolor quae.
+      Olá! Eu sou Harry, um entusiasta da tecnologia e desenvolvedor apaixonado. 
+      Graduado em Sistemas de Informação, mergulhei de cabeça no mundo da programação, 
+      onde encontrei minha verdadeira paixão.
       </p>
       <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos veritatis
-        aperiam, odit nihil placeat, dolorum sequi reprehenderit fugiat,
-        distinctio provident impedit modi neque sapiente voluptate voluptates.
-        Maiores sint at dolores?
+      Ao longo da minha jornada, tenho dedicado meu tempo a explorar e dominar diversas tecnologias. 
+      Meu portfólio no GitHub reflete essa paixão, com uma coleção de projetos que demonstram minha habilidade e criatividade. 
+      Estou constantemente buscando novos desafios e oportunidades para aprender e crescer como profissional. 
+      Seja bem-vindo ao meu mundo de código e inovação!
       </p>
     </section>
   );
